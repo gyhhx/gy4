@@ -3,7 +3,7 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
   <tr>
-    <td align=center>网门 網門<br/>
+    <td align=center>网门 網門<b/>
       ◆固定网址◆ 一！定！要！收！藏！<br/>
       https://git.io/ogate<br/>
       https://github.com/ogate/ogate<br/>
