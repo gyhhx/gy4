@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align=center>■ 海外禁闻 ■ 翻墙直连 ■<br/>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?c816850&from=gygit">收视过亿最热脱口秀 石涛·今日点击</a><br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?c816850&from=gygit">收视过亿最热脱口秀 石涛·今日点击</a><br/>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?c816857&from=gygit">文昭 谈古论今</a><br/>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?c816833&from=gygit">百年共产党真相</a><br/>
     </td>
