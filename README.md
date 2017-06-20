@@ -1,34 +1,30 @@
 <table>
   <tr>
-    <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
+    <td align=center><img src="https://github.com/gyhhx/image/blob/master/ogate-c.JPG" /></td>
   </tr>
+   <tr>
+  <td align=center><b>👉👉👉从【微信】或【扫码】到此页面的，请点击右上角三个点，选择在浏览器中打开！<b/>
+    </tr>
   <tr>
-    <td align=center>网门 網門<b/>
-      ◆固定网址◆ 一！定！要！收！藏！<br/>
+    <td align=center>网 门<br/>
+      固定网址，请及时收藏:<br/>
       https://git.io/ogate<br/>
       https://github.com/ogate/ogate<br/>
     </td>
   </tr>
-  <tr>
-    <td align=center>■ 海外禁闻 ■ 翻墙直连 ■<br/>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?c816850&from=gygit">收视过亿最热脱口秀 石涛·今日点击</a><br/>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?c816857&from=gygit">文昭 谈古论今</a><br/>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?c816833&from=gygit">百年共产党真相</a><br/>
-    </td>
-    </tr>
     <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=gygit">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gygit">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gygit">入口</a><br/>
-      微信如提示停止访问该网页，须<br/>
-      先点击右上角，选择浏览器打开<br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=gygit">动态网址1</a>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gygit">动态网址2</a>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gygit">动态网址3</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=gygit">动态网址4</a>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gygit">动态网址5</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>
       下载安卓版，更快更方便  <br/> 
-    (微信中如无响应，请复制链接地址到非国产浏览器中打开）<br/><a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+    <b/>◆微信中如无响应，请复制以下链接地址到非国产浏览器中打开◆<br/><a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
     </td>
   </tr>
   <tr>
