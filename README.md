@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td align=center><img src="https://github.com/gyhhx/image/blob/master/ogate-c.JPG" /></td>
+    <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/title1.jpg" /></td>
   </tr>
-   <tr>
-  <td align=center><b>👉👉👉从【微信】或【扫码】到此页面的，请点击右上角三个点，选择在浏览器中打开！<b/>
-    </tr>
+    <tr>
+  <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg" /></td>  
+  </tr>
   <tr>
     <td align=center>网 门<br/>
       固定网址，请及时收藏:<br/>
@@ -37,14 +37,9 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
-    <td align=center>
-大陆用户无需翻墙，<br/>
-直接登入《网门》网站，<br/>就可以分享全球精粹资源。<br/>
-《网门》揭开网络时代的新视角，<br/>引领网络时代的新风尚。<br/>
-《网门》适合手机、平板、电脑等<br/>所有网络终端用户。<br/>
-《网门》无需翻墙突破网络封锁，<br/>是稳定长效的安全网址。<br/>
-只要把网址保存在手机浏览器书签中，<br/>或保存在电脑浏览器收藏夹中，<br/>
-就可以随时打开《网门》，<br/>
-分享全球菁萃资源。<br/></td>
+    <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg" /></td>
+   </tr>  
+    <tr>
+    <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg" /></td>
   </tr>
 </table>    
