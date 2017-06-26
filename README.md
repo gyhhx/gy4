@@ -5,13 +5,6 @@
     <tr>
   <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg" /></td>  
   </tr>
-  <tr>
-    <td align=center>网 门<br/>
-      固定网址，请及时收藏:<br/>
-      https://git.io/ogate<br/>
-      https://github.com/ogate/ogate<br/>
-    </td>
-   <tr>
   <td align=center>
   <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816846_2_1&from=gy">视频短片：为了您的未来，请您加入</a><br/>
       <a href="https://gyqxb.azureedge.net/ogST.aspx?from=gy"><b>〓〓〓君子不立危墙之下〓〓〓<br/></a>
@@ -19,12 +12,12 @@
   </tr>
     <tr>
     <td align=center>↓↓↓↓↓请点击进入动态网址↓↓↓↓↓<br/>
-      <a href="https://cdn.rawgit.com/ogate/up/master/oGates.htm?from=gy">动态网址1</a>
-      <a href="https://gyhc.azureedge.net/oGate.htm?from=gy-2">动态网址2</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gy">动态网址3</a><br/>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gy">动态网址4</a>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=gy">动态网址5</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=gy">动态网址6</a><br/>
+      <a href="https://cdn.rawgit.com/ogate/up/master/oGates.htm?from=gy">👉动态网址1</a><br/>
+      <a href="https://gyhc.azureedge.net/oGate.htm?from=gy-2">👉动态网址2</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gy">👉动态网址3</a><br/>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gy">👉动态网址4</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=gy">👉动态网址5</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=gy">👉动态网址6</a><br/>
     </td>
   </tr>
   <tr>
