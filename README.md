@@ -20,7 +20,7 @@
     <tr>
     <td align=center>↓↓↓↓↓请点击进入动态网址↓↓↓↓↓<br/>
       <a href="https://cdn.rawgit.com/ogate/up/master/oGates.htm?from=gy">动态网址1</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=gy">动态网址2</a>
+      <a href="https://gyhc.azureedge.net/oGate.htm?from=gy-2">动态网址2</a>
       <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gy">动态网址3</a><br/>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gy">动态网址4</a>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=gy">动态网址5</a>
