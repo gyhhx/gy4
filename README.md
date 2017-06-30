@@ -6,8 +6,8 @@
   <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg" /></td>  
   </tr>
   <td align=center>
-  <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816846_2_1&from=gy">视频短片：为了您的未来，请您加入</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogST.aspx&from=gy"><b>〓〓〓君子不立危墙之下〓〓〓<br/></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_2_1&from=gy">视频短片：为了您的未来，请您加入</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogST.aspx&from=gy"><b>〓〓〓君子不立危墙之下〓〓〓<br/></a>
       </td>
   </tr>
     <tr>
