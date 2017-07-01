@@ -15,11 +15,11 @@
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c803879&from=gy">◆动  态  网（适合手机界面）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220/loc/phome.php&from=gy">◆动  态  网（适合手机界面）</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=gy">◆动  态  网 （适合电脑界面）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220&from=gy">◆动  态  网 （适合电脑界面）</a><br/>
   </tr>
   <tr>
 <td align=center>
@@ -31,7 +31,7 @@
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://130/&from=gyntd">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://130/&from=gy">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
    </tr>
   <tr>
     <td align=center>
