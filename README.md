@@ -11,19 +11,19 @@
   </tr>
    <tr>
   <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gymh">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gy">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c803879&from=gydtw1">◆动  态  网（适合手机界面）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c803879&from=gy">◆动  态  网（适合手机界面）</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=gydtw2">◆动  态  网 （适合电脑界面）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=gy">◆动  态  网 （适合电脑界面）</a><br/>
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogNews&from=gytt">◆网门头条◆汇聚全球最焦点资讯</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogNews&from=gy">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
   <tr>
       <td align=center>
@@ -35,33 +35,33 @@
    </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816850&from=gydj">◆今日点击◆全球华语最热脱口秀</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816850&from=gy">◆今日点击◆全球华语最热脱口秀</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816857&from=gywz">◆文昭解读◆解析全球最热门时事</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816857&from=gy">◆文昭解读◆解析全球最热门时事</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816860&from=gyjw">◆中国禁闻◆报道中国最深度内幕</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816860&from=gy">◆中国禁闻◆报道中国最深度内幕</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816855&from=gyzj">◆环球直击◆透析最新的全球资讯</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816855&from=gy">◆环球直击◆透析最新的全球资讯</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816479&from=gyvoa">◆美国之音◆世界最大的对外广播</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816479&from=gy">◆美国之音◆世界最大的对外广播</a><br/>
    </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816456&from=gysof">◆希望之声◆中国24小时真实讯息</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816456&from=gy">◆希望之声◆中国24小时真实讯息</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816424&from=gyasia">◆自由亚洲◆听见亚洲真实的声音</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816424&from=gy">◆自由亚洲◆听见亚洲真实的声音</a><br/>
    </tr>
     <tr>
       <td align=center>▼▼▼更多精彩,请点击进入动态网址▼▼▼<br/>
