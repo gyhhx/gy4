@@ -31,7 +31,7 @@
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://130/&from=gy">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://130/&from=gyntd">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
    </tr>
   <tr>
     <td align=center>
