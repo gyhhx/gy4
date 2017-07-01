@@ -17,6 +17,16 @@
     </td>
   </tr>
   <tr>
+    <td align=center>
+◆推荐使用谷歌或火狐浏览器<br/>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、</a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、</a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
+◆国产浏览器干扰浏览，请卸载<br/>
+</td>
+  </tr>
+  <tr>
   <td align=center>
   <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_2_1&from=gy">视频短片：为了您的未来，请您加入三退大潮</a><br/>
       <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogST.aspx&from=gy"><b>〓那年我们没有选择，此刻却是我们的自由〓<br/></a>
