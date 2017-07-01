@@ -10,10 +10,6 @@
 </td>
   </tr>
   <tr>
-  <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gy">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
-  </tr>
-  <tr>
 <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c803879&from=gy">◆动  态  网（适合手机界面）</a><br/> 
   </tr>
@@ -25,6 +21,10 @@
 <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogNews&from=gy">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
+   <tr>
+  <td align=center>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gy">◆明慧网◆</a><br/> 
+  </tr>
   <tr>
       <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?name=http://140/&from=gy">◆ 大 纪 元 ◆全球最大的中文媒体</a><br/>
