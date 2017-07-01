@@ -15,11 +15,7 @@
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220/loc/phome.php&from=gy">◆动  态  网（适合手机界面）</a><br/> 
-  </tr>
-  <tr>
-<td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220&from=gy">◆动  态  网 （适合电脑界面）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220/loc/phome.php&from=gy">◆动  态  网</a><br/> 
   </tr>
   <tr>
 <td align=center>
