@@ -12,21 +12,18 @@
 <img src="https://github.com/gyhhx/image-upload/blob/master/advise.jpg"/>
 </td>
   </tr>
-   <tr>
-  <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gy">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
+  
+  <tr>
+<td align=center>
+<a href="https://rawgit.com/onorm/up/master/oGate.htm?ogPipe.aspx?name=http://220/loc/phome.php&from=gy">◆动  态  网</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://220/loc/phome.php&from=gy">◆动  态  网</a><br/> 
-  </tr>
-  <tr>
-<td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogNews&from=gy">◆网门头条◆汇聚全球最焦点资讯</a><br/>
+<a href="https://rawgit.com/onorm/up/master/oGate.htm?ogNews&from=gy">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http://130/&from=gy">◆ 大 纪 元 ◆全球最大的中文媒体</a><br/>
+<a href="https://rawgit.com/onorm/up/master/oGate.htm?ogPipe.aspx?name=http://130/&from=gy">◆ 大 纪 元 ◆全球最大的中文媒体</a><br/>
    </tr>
   <tr>
       <td align=center>
@@ -62,6 +59,10 @@
       <td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816424&from=gy">◆自由亚洲◆听见亚洲真实的声音</a><br/>
    </tr>
+    <tr>
+  <td align=center>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F110%2F&from=gy">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
+  </tr>
     <tr>
       <td align=center>↓↓↓↓↓更多精彩，请点击进入动态网址↓↓↓↓↓<br/>
       <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=gy"><b>👉动态网址1</a>
