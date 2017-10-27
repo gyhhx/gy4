@@ -12,68 +12,64 @@
    <tr>
     <td align=center>
  <b>〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓<br/>网门  安卓版 APP下载(更新版）<br/> ●长期访问<br/> ●一键翻墙<br/>  ●不限时长<br/> 
- <a href="http://t.cn/R0JHHUU">👉<b>点我下载</a><br/>〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓<br/>
+ <a href="http://t.cn/RWyt8hi">👉<b>点我下载</a><br/>〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓<br/>
     </td>
     </tr>
   <tr>
     <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/yaowen.jpg" /></td>
   </tr>
-  <tr>
+   <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832956&from=gityw">◆特邀李锐出席19大？罗宇：习近平意向不明</a><br/>
-</td>
-   </tr>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835923&from=gityw">◆常委出炉难掩权争激烈 习近平仍有跨不过的门槛</a><br/></td>
+  </tr>
 <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832940&from=gityw">◆党代会秘闻：华国锋主席台酣睡 万里宋平拒给江站台</a><br/></td>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835957&from=gityw">◆栗战书料掌港澳 传不满梁振英闯习近平专机</a><br/></td>
  </tr>
- <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832992&from=gityw">◆北京怕金正恩〝狗急跳墙〞 祸起江泽民给习埋炸弹</a><br/>
- </td>
- </tr>
- <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832960&from=gityw">◆【禁闻】数万人抗议 四川启动反恐级维稳</a><br/>
-</td>
-   </tr> 
- <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832951&from=gityw">◆传上海书记和市长换人 韩正将调离</a><br/></td>
-  </tr>
-   <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832957&from=gityw">◆石铭：中共政权还能够撑几日？</a><br/>
-</td>
    </tr>
  <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832938&from=gityw">◆十九大热传“主席制” 一正二副架构掌决策权</a><br/></td>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835940&from=gityw">◆表情复杂 王岐山在任最后一天离开会场画面曝光</a><br/>
+</td>
+   </tr> 
+  <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835958&from=gityw">◆习引古诗：不要人夸颜色好 只留清气满乾坤引猜测</a><br/></td>
+  </tr>
+ <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835938&from=gityw">◆名单异常 19大中委〝选举〞露馅洩激斗实情</a><br/></td>
    </tr>
   <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c832918&from=gityw">◆朝鲜核爆基地坍塌？丰溪里3.4级浅层再震引猜测</a><br/>
-</td>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835956&from=gityw">◆李源潮出局 民间希望他早点落马</a><br/></td>
    </tr>
+  <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835949&from=gityw">◆应勇马兴瑞意外〝出局〞 李希李强或分掌上海广东</a><br/>
+</td>
+    <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835950&from=gityw">◆【禁闻】江泽民露面十九大 是荣是辱？</a><br/></td>
+ </tr>
  <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816857_110_1&from=gityw">◆大陆新闻解读：习近平思想进党章</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835939&from=gityw">◆长年迫害人权 曾庆红亲信郭声琨 传掌政法委</a><br/>
 </td>
    </tr>
- <tr>
+    <tr>
 <td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816667&from=gityw">◆影片《难以置信》更新版　大陆独家播出</a><br/>
-</td>
-   </tr>
- <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816833_2_1119&from=gityw">◆毛选被删惊人言论 透视毛泽东人格</a><br/>
-</td>
-   </tr> 
-   <tr>
-<td align=left>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c833002&from=gityw">◆江绵恒换肾与中共权贵摘器官续命内幕</a><br/></td>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835916&from=gityw">◆19大闭幕式央视再〝砍江〞 男服务员倒水用意明显</a><br/></td>
   </tr> 
+ <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c835936&from=gityw">◆杨宁：十九大后需要直面的一大问题</a><br/></td>
+   </tr> 
+ <tr>
+<td align=left>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816833_2_1217&from=gityw">◆【禁闻】中共96年 中华添一亿亡魂</a><br/>
+</td>
+   </tr>
     <tr>
     <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/shipin.jpg" /></td>
   </tr>
@@ -135,21 +131,7 @@
       </td>
   </tr>
  <tr>
-    <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/p-final.jpg" /></td>
-  </tr>
-   <tr>
-    <td align=left>
-<b>谷歌浏览器 下载<br/>
-<a href="http://t.cn/RCSpFgG">👉谷歌电脑版（绿色免安装）</a><br/>
-<a href="http://t.cn/RCSp1nX">👉谷歌手机版（安卓）</a>
-</td>
-  </tr>
-  <tr>
-    <td align=left>
-<b>火狐浏览器 下载<br/>
-<a href="http://t.cn/RCS0P53">👉火狐电脑版</a><br/>
-<a href="http://t.cn/RCSpgCO">👉火狐手机版（安卓）</a>
-</td>
+    <td align=center><img src="https://github.com/gyhhx/image-upload/blob/master/p-final1.jpg" /></td>
   </tr>
    <tr>
     <td align=center><img src="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg"/></td>
