@@ -112,15 +112,15 @@
   </tr>
    <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=gy">入口</a>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=gy">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=gyt">入口</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=gy">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=gy">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=gy">入口</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=gy">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=gy">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=gy">入口</a><br/>
+      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3.amazonaws.com/ogate/show.htm?from=gy">入口</a><br/>
+      <a target="_blank" href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=gy">入口</a><br/>     
+      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=gy">入口</a>
+      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/show.htm?from=gy">入口</a><br/>
       ■■■微信中请先点击右上角“...” 或 “三”　选择“在浏览器中打开”■■■<b><br/>
     </td>
   </tr>
