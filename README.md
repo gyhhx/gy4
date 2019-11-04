@@ -88,10 +88,7 @@
     <td colspan="2" align=center>
 <a href="https://xball.casa/oo.aspx?name=c816650&key=eqxowaguscvmxdgc&from=gy&tag=9973110">◆老北京茶馆◆谈笑间体会深层思考</a><br/>
    </tr>
- </table>
- 
-<table>
-  <tr>
+ <tr>
     <td colspan="2" align="center"><img src="https://gitlab.com/ogate2/up/raw/master/_/oGate65.jpg"/></td>
   </tr>
   <tr>
@@ -101,15 +98,15 @@
     <td colspan="2" align="center">请尝试不同入口，进入动态网址<br/>微信如提示停止访问该网页，须<br/>先点击右上角，选择浏览器打开</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gl.githack.com/ofile/up/raw/master/showm.htm">网页版入口一</a></td>
-    <td colspan="2" align="center"><a href="https://lijcxlvzmlxs.xroot.pw/oo.aspx?key=mvmsehdxxcbsukzw&from=ogHomel">网页版入口二</a></td>
+    <td align="center"><a href="https://gl.githack.com/ofile/up/raw/master/showm.htm">网页版入口一</a></td>
+    <td align="center"><a href="https://lijcxlvzmlxs.xroot.pw/oo.aspx?key=mvmsehdxxcbsukzw&from=ogHomel">网页版入口二</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">下载网门客户端，更快，更方便</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGatea.apk">网门安卓版</a></td>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGate.zip">网门电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGatea.apk">网门安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGate.zip">网门电脑版</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oPipe.zip">环通电脑版</a></td>
@@ -118,12 +115,12 @@
     <td colspan="2" align="center">使用海外浏览器，更好，更安全</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.apk">Chrome安卓版</a></td>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.zip">Chrome电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.apk">Chrome安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.zip">Chrome电脑版</a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.apk">Firefox安卓版</a></td>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.zip">Firefox电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.apk">Firefox安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.zip">Firefox电脑版</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://gitlab.com/ogate2/up/raw/master/_/oGate640.jpg"/></td>
